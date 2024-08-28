@@ -1,0 +1,10 @@
+:root {
+    --sand-color: #edd0aa;
+    --frame-color:#c19875;
+       
+}
+
+body {
+    height: 100vh;
+    display: flex;
+}
